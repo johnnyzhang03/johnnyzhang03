@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zhiming</h1>
-<h3 align="center">A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnyzhang03&label=Profile%20views&color=0e75b6&style=flat" alt="johnnyzhang03" /> </p>
 
-- 🔭 I’m currently working on [SmartVis](https://github.com/johnnyzhang03/SmartVis)
+- 🔭 I’m currently working on [ExploreTree](https://github.com/johnnyzhang03/ExploreTree)
 
 - 📫 How to reach me **szniuniu2003@gmail.com**
 
